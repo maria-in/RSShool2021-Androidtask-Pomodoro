@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "RSShool2021-Android-task-Pomodoro-new"
